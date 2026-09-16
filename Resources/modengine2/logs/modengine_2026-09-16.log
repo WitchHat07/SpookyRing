@@ -84,3 +84,26 @@
 [2026-09-16 09:33:47.724] [modengine] [info] Enabled extension mod_loader
 [2026-09-16 09:33:47.802] [modengine] [info] Applied 3 hooks
 [2026-09-16 09:33:47.806] [modengine] [info] Starting worker thread
+[2026-09-16 09:43:30.481] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\SpookyRing\Resources\modengine2\config.toml
+[2026-09-16 09:43:30.481] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\SpookyRing\Resources\config_eldenring.toml
+[2026-09-16 09:43:30.487] [modengine] [info] Local config loaded
+[2026-09-16 09:43:30.487] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-16 09:43:30.487] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-16 09:43:30.487] [modengine] [info] Main thread ID: 10556
+[2026-09-16 09:43:30.591] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\SpookyRing\Resources\mod\SeamlessCoop\ersc.dll
+[2026-09-16 09:43:33.293] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\SpookyRing\Resources\mod\DamageCompetition\damage_competition.dll
+[2026-09-16 09:43:33.293] [modengine] [warning] External dll X:\Modding\Elden Ring\SpookyRing\Resources\mod\DamageCompetition\damage_competition.dll at base address 0x7ff80f090000 is not a modengine extension
+[2026-09-16 09:43:33.293] [modengine] [info] Enabling extension base
+[2026-09-16 09:43:33.293] [modengine] [info] Enabled extension base
+[2026-09-16 09:43:33.293] [modengine] [info] Enabling extension mod_loader
+[2026-09-16 09:43:33.293] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-16 09:43:33.293] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod\SeamlessCoop
+[2026-09-16 09:43:33.293] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-16 09:43:33.293] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod\DamageCompetition
+[2026-09-16 09:43:33.293] [modengine] [info] Installing mod location mod\ER_GuardParry
+[2026-09-16 09:43:33.293] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod\ER_GuardParry
+[2026-09-16 09:43:33.293] [modengine] [info] Installing mod location mod
+[2026-09-16 09:43:33.293] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod
+[2026-09-16 09:43:33.293] [modengine] [info] Enabled extension mod_loader
+[2026-09-16 09:43:33.359] [modengine] [info] Applied 3 hooks
+[2026-09-16 09:43:33.363] [modengine] [info] Starting worker thread
