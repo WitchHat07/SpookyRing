@@ -1,0 +1,205 @@
+ELDEN RING GUARD PARRY v1.4 by andrewRCr
+Adjusted guarding animation ID's
+========
+
+ADJUSTED TAE FILES:
+a00, a02, a03, a10, a12, a13, a15, a113
+
+STANDARD SHIELD RAISE - 4f
+-holding no weapon / light weapons (straight sword, etc) in RH
+a000_019000
+a000_019001
+a000_019004
+
+GREATSHIELD RAISE (extended version ONLY - 7f)
+-holding no weapon / light weapons (straight sword, etc) in RH
+a000_019010
+a000_019011
+a000_010014
+
+SMALL SHIELD RAISE - 6f
+-holding no weapon / light weapons (straight sword, etc) in RH
+a000_019020
+a000_019021
+a000_010024
+
+STANDARD SHIELD RAISE - 4f
+-holding great weapons, colossal weapons in RH
+a002_019000
+a002_019001
+a002_019004
+
+GREATSHIELD RAISE (extended version ONLY - 7f)
+-holding great weapons, colossal weapons in RH
+a002_019010
+a002_019011
+a002_010014
+
+SMALL SHIELD RAISE - 6f
+-holding great weapons, colossal weapons in RH
+a002_019020
+a002_019021
+a002_019024
+
+STANDARD SHIELD RAISE - 4f
+-holding polearm weapons in RH
+a003_019000
+a003_019001
+a003_019004
+
+GREATSHIELD RAISE (extended version ONLY - 7f)
+-holding polearm weapons in RH
+a003_019010
+a003_019011
+a003_010014
+
+SMALL SHIELD RAISE - 6f
+-holding polearm weapons in RH
+a003_019020
+a003_019021
+a003_010024
+
+LIGHT WEAPONS: STRAIGHT SWORD, ETC GUARD RAISE - 6f
+a010_019000
+a010_019001
+
+CARIAN KNIGHT'S SWORD - CHARGED HEAVY (has block at beginning of animation)
+a113_030500 - 1H heavy
+a113_032500 - 2H heavy
+
+GREAT / COLOSSAL WEAPONS: GREATSWORD, ETC GUARD RAISE - 4f
+a012_019000
+a012_019001
+
+POLEARMS GUARD RAISE - 5f
+a013_019000
+a013_019001
+a013_019004
+
+2-H STANDARD SHIELD GUARD RAISE - 6f
+a015_019000
+a015_019001
+
+2-H  GREATSHIELD GUARD RAISE (extended ONLY)
+a015_019010
+a015_019011
+
+2-H SMALL SHIELD GUARD RAISE - 7f
+a015_019020
+a015_019021
+
+SHADOW OF THE ERDTREE NEW STUFF
+===========
+
+THRUSTING SHIELD (LH) GUARD RAISE - 5f
+-holding no weapon / light weapons (straight sword, etc) in RH
+a000_019060
+a000_019061
+a000_019064
+
+THRUSTING SHIELD (LH) GUARD RAISE - 5f
+-holding great weapons, colossal weapons in RH
+a002_019060
+a002_019061
+a002_019064
+
+THRUSTING SHIELD (LH) GUARD RAISE - 5f
+-holding polearm weapons in RH
+a003_019060
+a003_019061
+a003_019064
+
+THRUSTING SHIELD (RH) GUARD RAISES - 6f
+a013_019060
+a013_019061
+
+DEFLECTING HARDTEAR ACTIVE - VARIOUS GUARD RAISES
+===========
+
+DEFLECTING HARDTEAR - STANDARD SHIELD
+-holding no weapon / light weapons (straight sword, etc)
+a000_019700
+a000_019701
+
+DEFLECTING HARDTEAR -  GREATSHIELD (extended version ONLY)
+-holding no weapon / light weapons (straight sword, etc) in RH
+a000_019710
+a000_019711
+
+DEFLECTING HARDTEAR - SMALL SHIELD
+-holding no weapon / light weapons (straight sword, etc) in RH
+a000_019720
+a000_019721
+
+DEFLECTING HARDTEAR - THRUSTING SHIELD (LH) (overrides 19060)
+-holding no weapon / light weapons (straight sword, etc) in RH
+a000_019730
+a000_019731
+
+DEFLECTING HARDTEAR - STANDARD SHIELD
+-holding great weapons, colossal weapons in RH
+a002_019700
+a002_019701
+
+DEFLECTING HARDTEAR -  GREATSHIELD (extended version ONLY)
+-holding great weapons, colossal weapons in RH
+a002_019710
+a002_019711
+
+DEFLECTING HARDTEAR - SMALL SHIELD
+-holding great weapons, colossal weapons in RH
+a002_019720
+a002_019721
+
+DEFLECTING HARDTEAR - THRUSTING SHIELD (LH) (overrides 19060)
+-holding great weapons, colossal weapons in RH
+a002_019730
+a002_019731
+
+DEFLECTING HARDTEAR - STANDARD SHIELD
+-holding polearm weapons in RH
+a003_019700
+a003_019701
+
+DEFLECTING HARDTEAR -  GREATSHIELD (extended version ONLY)
+-holding polearm weapons in RH
+a003_019710
+a003_019711
+
+DEFLECTING HARDTEAR - SMALL SHIELD
+-holding polearm weapons in RH
+a003_019720
+a003_019721
+
+DEFLECTING HARDTEAR - THRUSTING SHIELD (LH) (overrides 19060)
+-holding polearm weapons in RH
+a003_019730
+a003_019731
+
+DEFLECTING HARDTEAR - LIGHT WEAPONS: STRAIGHT SWORD, ETC GUARD RAISE
+a010_019700
+a010_019701
+
+DEFLECTING HARDTEAR - GREAT / COLOSSAL WEAPONS: GREATSWORD, ETC GUARD RAISE
+a012_019700
+a012_019701
+
+DEFLECTING HARDTEAR - POLEARMS GUARD RAISE
+a013_019700
+a013_019701
+
+DEFLECTING HARDTEAR - THRUSTING SHIELD (RH) GUARD RAISE
+a013_019730
+a013_019731
+
+DEFLECTING HARDTEAR - 2-H STANDARD SHIELD GUARD RAISE
+a015_019700
+a015_019701
+
+DEFLECTING HARDTEAR - 2-H GREATSHIELD GUARD RAISE (extended version ONLY)
+a015_019710
+a015_019711
+
+DEFLECTING HARDTEAR - 2-H SMALL SHIELD GUARD RAISE
+a015_019720
+a015_019721

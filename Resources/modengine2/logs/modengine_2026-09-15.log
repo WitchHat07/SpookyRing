@@ -1,0 +1,925 @@
+[2026-09-15 12:41:41.955] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0.0-win64\modengine2\config.toml
+[2026-09-15 12:41:41.955] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0.0-win64\config_eldenring.toml
+[2026-09-15 12:41:41.955] [modengine] [info] Local config loaded
+[2026-09-15 12:41:41.955] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 12:41:41.955] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 12:41:41.955] [modengine] [info] Main thread ID: 26264
+[2026-09-15 12:41:42.089] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0.0-win64\mod\SeamlessCoop\ersc.dll
+[2026-09-15 12:41:44.792] [modengine] [info] Enabling extension base
+[2026-09-15 12:41:44.792] [modengine] [info] Enabled extension base
+[2026-09-15 12:41:44.792] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 12:41:44.792] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 12:41:44.792] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0.0-win64\mod\SeamlessCoop
+[2026-09-15 12:41:44.792] [modengine] [info] Installing mod location mod
+[2026-09-15 12:41:44.792] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0.0-win64\mod
+[2026-09-15 12:41:44.792] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 12:41:44.869] [modengine] [info] Applied 3 hooks
+[2026-09-15 12:41:44.873] [modengine] [info] Starting worker thread
+[2026-09-15 12:50:38.550] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 12:50:38.550] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 12:50:38.551] [modengine] [info] Local config loaded
+[2026-09-15 12:50:38.551] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 12:50:38.551] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 12:50:38.551] [modengine] [info] Main thread ID: 376
+[2026-09-15 12:50:38.633] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 12:50:41.463] [modengine] [info] Enabling extension base
+[2026-09-15 12:50:41.463] [modengine] [info] Enabled extension base
+[2026-09-15 12:50:41.463] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 12:50:41.463] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 12:50:41.463] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 12:50:41.463] [modengine] [info] Installing mod location mod
+[2026-09-15 12:50:41.463] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 12:50:41.463] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 12:50:41.529] [modengine] [info] Applied 3 hooks
+[2026-09-15 12:50:41.533] [modengine] [info] Starting worker thread
+[2026-09-15 13:12:48.487] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 13:12:48.487] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 13:12:48.487] [modengine] [info] Local config loaded
+[2026-09-15 13:12:48.488] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 13:12:48.488] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 13:12:48.488] [modengine] [info] Main thread ID: 19988
+[2026-09-15 13:12:48.562] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 13:12:51.446] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 13:12:51.447] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafa840000 is not a modengine extension
+[2026-09-15 13:12:51.447] [modengine] [info] Enabling extension base
+[2026-09-15 13:12:51.447] [modengine] [info] Enabled extension base
+[2026-09-15 13:12:51.447] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 13:12:51.447] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 13:12:51.447] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 13:12:51.447] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 13:12:51.447] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 13:12:51.447] [modengine] [info] Installing mod location mod
+[2026-09-15 13:12:51.447] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 13:12:51.447] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 13:12:51.515] [modengine] [info] Applied 3 hooks
+[2026-09-15 13:12:51.519] [modengine] [info] Starting worker thread
+[2026-09-15 13:20:55.396] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 13:20:55.396] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 13:20:55.396] [modengine] [info] Local config loaded
+[2026-09-15 13:20:55.396] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 13:20:55.396] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 13:20:55.396] [modengine] [info] Main thread ID: 21240
+[2026-09-15 13:20:55.469] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 13:20:58.300] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 13:20:58.300] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafa7e0000 is not a modengine extension
+[2026-09-15 13:20:58.300] [modengine] [info] Enabling extension base
+[2026-09-15 13:20:58.300] [modengine] [info] Enabled extension base
+[2026-09-15 13:20:58.300] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 13:20:58.300] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 13:20:58.300] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 13:20:58.300] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 13:20:58.300] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 13:20:58.300] [modengine] [info] Installing mod location mod
+[2026-09-15 13:20:58.300] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 13:20:58.300] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 13:20:58.373] [modengine] [info] Applied 3 hooks
+[2026-09-15 13:20:58.380] [modengine] [info] Starting worker thread
+[2026-09-15 13:47:56.842] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 13:47:56.842] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 13:47:56.842] [modengine] [info] Local config loaded
+[2026-09-15 13:47:56.843] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 13:47:56.843] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 13:47:56.843] [modengine] [info] Main thread ID: 10360
+[2026-09-15 13:47:56.919] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 13:47:59.678] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 13:47:59.678] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffaf2470000 is not a modengine extension
+[2026-09-15 13:47:59.678] [modengine] [info] Enabling extension base
+[2026-09-15 13:47:59.678] [modengine] [info] Enabled extension base
+[2026-09-15 13:47:59.678] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 13:47:59.678] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 13:47:59.678] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 13:47:59.678] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 13:47:59.678] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 13:47:59.678] [modengine] [info] Installing mod location mod
+[2026-09-15 13:47:59.678] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 13:47:59.678] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 13:47:59.751] [modengine] [info] Applied 3 hooks
+[2026-09-15 13:47:59.757] [modengine] [info] Starting worker thread
+[2026-09-15 14:02:04.730] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 14:02:04.730] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 14:02:04.730] [modengine] [info] Local config loaded
+[2026-09-15 14:02:04.730] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 14:02:04.730] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 14:02:04.730] [modengine] [info] Main thread ID: 34632
+[2026-09-15 14:02:04.802] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 14:02:07.929] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 14:02:07.929] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffa4cb90000 is not a modengine extension
+[2026-09-15 14:02:07.935] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 14:02:07.935] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ff99c3f0000 is not a modengine extension
+[2026-09-15 14:02:07.935] [modengine] [info] Enabling extension base
+[2026-09-15 14:02:07.935] [modengine] [info] Enabled extension base
+[2026-09-15 14:02:07.935] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 14:02:07.935] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 14:02:07.935] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 14:02:07.935] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 14:02:07.935] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 14:02:07.935] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 14:02:07.935] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 14:02:07.935] [modengine] [info] Installing mod location mod
+[2026-09-15 14:02:07.935] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 14:02:07.935] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 14:02:08.007] [modengine] [info] Applied 3 hooks
+[2026-09-15 14:02:08.012] [modengine] [info] Starting worker thread
+[2026-09-15 14:48:38.165] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 14:48:38.165] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 14:48:38.165] [modengine] [info] Local config loaded
+[2026-09-15 14:48:38.165] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 14:48:38.165] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 14:48:38.165] [modengine] [info] Main thread ID: 32860
+[2026-09-15 14:48:38.238] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 14:48:41.148] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 14:48:41.148] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffa4ce40000 is not a modengine extension
+[2026-09-15 14:48:41.149] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 14:48:41.149] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa4ca80000 is not a modengine extension
+[2026-09-15 14:48:41.149] [modengine] [info] Enabling extension base
+[2026-09-15 14:48:41.149] [modengine] [info] Enabled extension base
+[2026-09-15 14:48:41.149] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 14:48:41.149] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 14:48:41.149] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 14:48:41.149] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 14:48:41.149] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 14:48:41.149] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 14:48:41.149] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 14:48:41.149] [modengine] [info] Installing mod location mod
+[2026-09-15 14:48:41.150] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 14:48:41.150] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 14:48:41.229] [modengine] [info] Applied 3 hooks
+[2026-09-15 14:48:41.236] [modengine] [info] Starting worker thread
+[2026-09-15 14:56:42.924] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 14:56:42.925] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 14:56:42.925] [modengine] [info] Local config loaded
+[2026-09-15 14:56:42.925] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 14:56:42.925] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 14:56:42.925] [modengine] [info] Main thread ID: 35024
+[2026-09-15 14:56:42.999] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 14:56:45.980] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 14:56:45.980] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffa96280000 is not a modengine extension
+[2026-09-15 14:56:45.981] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 14:56:45.982] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ff9b1a30000 is not a modengine extension
+[2026-09-15 14:56:45.982] [modengine] [info] Enabling extension base
+[2026-09-15 14:56:45.982] [modengine] [info] Enabled extension base
+[2026-09-15 14:56:45.982] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 14:56:45.982] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 14:56:45.982] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 14:56:45.982] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 14:56:45.982] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 14:56:45.982] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 14:56:45.982] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 14:56:45.982] [modengine] [info] Installing mod location mod
+[2026-09-15 14:56:45.982] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 14:56:45.982] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 14:56:46.055] [modengine] [info] Applied 3 hooks
+[2026-09-15 14:56:46.063] [modengine] [info] Starting worker thread
+[2026-09-15 15:04:04.393] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 15:04:04.393] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 15:04:04.393] [modengine] [info] Local config loaded
+[2026-09-15 15:04:04.393] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 15:04:04.393] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 15:04:04.393] [modengine] [info] Main thread ID: 9928
+[2026-09-15 15:04:04.466] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 15:04:07.392] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 15:04:07.392] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffa4ce40000 is not a modengine extension
+[2026-09-15 15:04:07.392] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 15:04:07.392] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ff9b1a30000 is not a modengine extension
+[2026-09-15 15:04:07.392] [modengine] [info] Enabling extension base
+[2026-09-15 15:04:07.392] [modengine] [info] Enabled extension base
+[2026-09-15 15:04:07.392] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 15:04:07.393] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 15:04:07.393] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 15:04:07.393] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 15:04:07.393] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 15:04:07.393] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 15:04:07.393] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 15:04:07.393] [modengine] [info] Installing mod location mod
+[2026-09-15 15:04:07.393] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 15:04:07.393] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 15:04:07.464] [modengine] [info] Applied 3 hooks
+[2026-09-15 15:04:07.470] [modengine] [info] Starting worker thread
+[2026-09-15 15:17:18.005] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 15:17:18.005] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 15:17:18.006] [modengine] [info] Local config loaded
+[2026-09-15 15:17:18.006] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 15:17:18.006] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 15:17:18.006] [modengine] [info] Main thread ID: 31720
+[2026-09-15 15:17:18.083] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 15:17:21.200] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 15:17:21.200] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffaf2470000 is not a modengine extension
+[2026-09-15 15:17:21.201] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 15:17:21.201] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa4ca80000 is not a modengine extension
+[2026-09-15 15:17:21.201] [modengine] [info] Enabling extension base
+[2026-09-15 15:17:21.201] [modengine] [info] Enabled extension base
+[2026-09-15 15:17:21.201] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 15:17:21.201] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 15:17:21.201] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 15:17:21.201] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 15:17:21.201] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 15:17:21.201] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 15:17:21.201] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 15:17:21.201] [modengine] [info] Installing mod location mod
+[2026-09-15 15:17:21.201] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 15:17:21.201] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 15:17:21.272] [modengine] [info] Applied 3 hooks
+[2026-09-15 15:17:21.277] [modengine] [info] Starting worker thread
+[2026-09-15 17:04:02.226] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 17:04:02.226] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 17:04:02.226] [modengine] [info] Local config loaded
+[2026-09-15 17:04:02.226] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 17:04:02.226] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 17:04:02.226] [modengine] [info] Main thread ID: 35992
+[2026-09-15 17:04:02.300] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 17:04:05.380] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole\er_console_mod.dll
+[2026-09-15 17:04:05.380] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole\er_console_mod.dll at base address 0x7ffa4aef0000 is not a modengine extension
+[2026-09-15 17:04:05.381] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 17:04:05.381] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffa98a00000 is not a modengine extension
+[2026-09-15 17:04:05.382] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 17:04:05.382] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa31fa0000 is not a modengine extension
+[2026-09-15 17:04:05.382] [modengine] [info] Enabling extension base
+[2026-09-15 17:04:05.382] [modengine] [info] Enabled extension base
+[2026-09-15 17:04:05.382] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 17:04:05.382] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 17:04:05.382] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 17:04:05.382] [modengine] [info] Installing mod location mod\ERConsole
+[2026-09-15 17:04:05.382] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole
+[2026-09-15 17:04:05.382] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 17:04:05.382] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 17:04:05.382] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 17:04:05.382] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 17:04:05.382] [modengine] [info] Installing mod location mod
+[2026-09-15 17:04:05.382] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 17:04:05.382] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 17:04:05.455] [modengine] [info] Applied 3 hooks
+[2026-09-15 17:04:05.462] [modengine] [info] Starting worker thread
+[2026-09-15 17:06:00.377] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 17:06:00.378] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 17:06:00.378] [modengine] [info] Local config loaded
+[2026-09-15 17:06:00.378] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 17:06:00.378] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 17:06:00.378] [modengine] [info] Main thread ID: 35988
+[2026-09-15 17:06:00.451] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 17:06:03.585] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole\er_console_mod.dll
+[2026-09-15 17:06:03.585] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole\er_console_mod.dll at base address 0x7ffa4aef0000 is not a modengine extension
+[2026-09-15 17:06:03.587] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 17:06:03.587] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffa98a00000 is not a modengine extension
+[2026-09-15 17:06:03.588] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 17:06:03.588] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa31fa0000 is not a modengine extension
+[2026-09-15 17:06:03.588] [modengine] [info] Enabling extension base
+[2026-09-15 17:06:03.588] [modengine] [info] Enabled extension base
+[2026-09-15 17:06:03.588] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 17:06:03.588] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 17:06:03.588] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 17:06:03.588] [modengine] [info] Installing mod location mod\ERConsole
+[2026-09-15 17:06:03.588] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole
+[2026-09-15 17:06:03.588] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 17:06:03.588] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 17:06:03.588] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 17:06:03.588] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 17:06:03.588] [modengine] [info] Installing mod location mod
+[2026-09-15 17:06:03.588] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 17:06:03.588] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 17:06:03.671] [modengine] [info] Applied 3 hooks
+[2026-09-15 17:06:03.676] [modengine] [info] Starting worker thread
+[2026-09-15 17:08:09.259] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 17:08:09.259] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 17:08:09.260] [modengine] [info] Local config loaded
+[2026-09-15 17:08:09.260] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 17:08:09.260] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 17:08:09.260] [modengine] [info] Main thread ID: 24420
+[2026-09-15 17:08:09.332] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 17:08:12.360] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole\er_console_mod.dll
+[2026-09-15 17:08:12.360] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole\er_console_mod.dll at base address 0x7ffa95e20000 is not a modengine extension
+[2026-09-15 17:08:12.361] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 17:08:12.361] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafda40000 is not a modengine extension
+[2026-09-15 17:08:12.362] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 17:08:12.362] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa4f520000 is not a modengine extension
+[2026-09-15 17:08:12.362] [modengine] [info] Enabling extension base
+[2026-09-15 17:08:12.362] [modengine] [info] Enabled extension base
+[2026-09-15 17:08:12.362] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 17:08:12.362] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 17:08:12.362] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 17:08:12.362] [modengine] [info] Installing mod location mod\ERConsole
+[2026-09-15 17:08:12.362] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole
+[2026-09-15 17:08:12.362] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 17:08:12.362] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 17:08:12.362] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 17:08:12.362] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 17:08:12.362] [modengine] [info] Installing mod location mod
+[2026-09-15 17:08:12.362] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 17:08:12.362] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 17:08:12.437] [modengine] [info] Applied 3 hooks
+[2026-09-15 17:08:12.444] [modengine] [info] Starting worker thread
+[2026-09-15 17:16:35.001] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 17:16:35.001] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 17:16:35.001] [modengine] [info] Local config loaded
+[2026-09-15 17:16:35.001] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 17:16:35.001] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 17:16:35.001] [modengine] [info] Main thread ID: 36376
+[2026-09-15 17:16:35.075] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 17:16:37.897] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole\er_console_mod.dll
+[2026-09-15 17:16:37.897] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole\er_console_mod.dll at base address 0x7ffa95e20000 is not a modengine extension
+[2026-09-15 17:16:37.898] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 17:16:37.898] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafda40000 is not a modengine extension
+[2026-09-15 17:16:37.899] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 17:16:37.899] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa4f520000 is not a modengine extension
+[2026-09-15 17:16:37.899] [modengine] [info] Enabling extension base
+[2026-09-15 17:16:37.899] [modengine] [info] Enabled extension base
+[2026-09-15 17:16:37.899] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 17:16:37.899] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 17:16:37.899] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 17:16:37.899] [modengine] [info] Installing mod location mod\ERConsole
+[2026-09-15 17:16:37.899] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole
+[2026-09-15 17:16:37.899] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 17:16:37.899] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 17:16:37.899] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 17:16:37.899] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 17:16:37.899] [modengine] [info] Installing mod location mod
+[2026-09-15 17:16:37.899] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 17:16:37.899] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 17:16:37.980] [modengine] [info] Applied 3 hooks
+[2026-09-15 17:16:37.986] [modengine] [info] Starting worker thread
+[2026-09-15 17:23:01.165] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 17:23:01.166] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 17:23:01.166] [modengine] [info] Local config loaded
+[2026-09-15 17:23:01.166] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 17:23:01.166] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 17:23:01.166] [modengine] [info] Main thread ID: 21568
+[2026-09-15 17:23:01.238] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 17:23:04.164] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole\er_console_mod.dll
+[2026-09-15 17:23:04.164] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole\er_console_mod.dll at base address 0x7ffa95e20000 is not a modengine extension
+[2026-09-15 17:23:04.165] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 17:23:04.165] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafda40000 is not a modengine extension
+[2026-09-15 17:23:04.166] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 17:23:04.166] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa4f520000 is not a modengine extension
+[2026-09-15 17:23:04.166] [modengine] [info] Enabling extension base
+[2026-09-15 17:23:04.166] [modengine] [info] Enabled extension base
+[2026-09-15 17:23:04.166] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 17:23:04.166] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 17:23:04.166] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 17:23:04.166] [modengine] [info] Installing mod location mod\ERConsole
+[2026-09-15 17:23:04.166] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ERConsole
+[2026-09-15 17:23:04.166] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 17:23:04.166] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 17:23:04.166] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 17:23:04.166] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 17:23:04.166] [modengine] [info] Installing mod location mod
+[2026-09-15 17:23:04.166] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 17:23:04.166] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 17:23:04.246] [modengine] [info] Applied 3 hooks
+[2026-09-15 17:23:04.253] [modengine] [info] Starting worker thread
+[2026-09-15 17:34:19.414] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 17:34:19.414] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 17:34:19.414] [modengine] [info] Local config loaded
+[2026-09-15 17:34:19.414] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 17:34:19.414] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 17:34:19.414] [modengine] [info] Main thread ID: 40328
+[2026-09-15 17:34:19.486] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 17:34:22.315] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 17:34:22.315] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafe310000 is not a modengine extension
+[2026-09-15 17:34:22.316] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 17:34:22.316] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa95e90000 is not a modengine extension
+[2026-09-15 17:34:22.316] [modengine] [info] Enabling extension base
+[2026-09-15 17:34:22.316] [modengine] [info] Enabled extension base
+[2026-09-15 17:34:22.316] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 17:34:22.316] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 17:34:22.317] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 17:34:22.317] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 17:34:22.317] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 17:34:22.317] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 17:34:22.317] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 17:34:22.317] [modengine] [info] Installing mod location mod
+[2026-09-15 17:34:22.317] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 17:34:22.317] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 17:34:22.389] [modengine] [info] Applied 3 hooks
+[2026-09-15 17:34:22.395] [modengine] [info] Starting worker thread
+[2026-09-15 17:59:14.185] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 17:59:14.185] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 17:59:14.185] [modengine] [info] Local config loaded
+[2026-09-15 17:59:14.185] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 17:59:14.185] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 17:59:14.185] [modengine] [info] Main thread ID: 38552
+[2026-09-15 17:59:14.257] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 17:59:17.317] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 17:59:17.317] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffa98a00000 is not a modengine extension
+[2026-09-15 17:59:17.318] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 17:59:17.318] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa4edb0000 is not a modengine extension
+[2026-09-15 17:59:17.318] [modengine] [info] Enabling extension base
+[2026-09-15 17:59:17.318] [modengine] [info] Enabled extension base
+[2026-09-15 17:59:17.318] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 17:59:17.318] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 17:59:17.318] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 17:59:17.318] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 17:59:17.318] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 17:59:17.318] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 17:59:17.318] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 17:59:17.318] [modengine] [info] Installing mod location mod
+[2026-09-15 17:59:17.318] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 17:59:17.318] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 17:59:17.392] [modengine] [info] Applied 3 hooks
+[2026-09-15 17:59:17.399] [modengine] [info] Starting worker thread
+[2026-09-15 18:21:58.303] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 18:21:58.304] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 18:21:58.304] [modengine] [info] Local config loaded
+[2026-09-15 18:21:58.304] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 18:21:58.304] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 18:21:58.304] [modengine] [info] Main thread ID: 40440
+[2026-09-15 18:21:58.376] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 18:22:01.437] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 18:22:01.437] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafe310000 is not a modengine extension
+[2026-09-15 18:22:01.438] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 18:22:01.439] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa95e90000 is not a modengine extension
+[2026-09-15 18:22:01.439] [modengine] [info] Enabling extension base
+[2026-09-15 18:22:01.439] [modengine] [info] Enabled extension base
+[2026-09-15 18:22:01.439] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 18:22:01.439] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 18:22:01.439] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 18:22:01.439] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 18:22:01.439] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 18:22:01.439] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 18:22:01.439] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 18:22:01.439] [modengine] [info] Installing mod location mod
+[2026-09-15 18:22:01.439] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 18:22:01.439] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 18:22:01.522] [modengine] [info] Applied 3 hooks
+[2026-09-15 18:22:01.529] [modengine] [info] Starting worker thread
+[2026-09-15 18:23:37.654] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 18:23:37.655] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 18:23:37.655] [modengine] [info] Local config loaded
+[2026-09-15 18:23:37.655] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 18:23:37.655] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 18:23:37.655] [modengine] [info] Main thread ID: 8348
+[2026-09-15 18:23:37.726] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 18:23:40.775] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 18:23:40.775] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafc2d0000 is not a modengine extension
+[2026-09-15 18:23:40.776] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 18:23:40.776] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa4f3c0000 is not a modengine extension
+[2026-09-15 18:23:40.777] [modengine] [info] Enabling extension base
+[2026-09-15 18:23:40.777] [modengine] [info] Enabled extension base
+[2026-09-15 18:23:40.777] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 18:23:40.777] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 18:23:40.777] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 18:23:40.777] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 18:23:40.777] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 18:23:40.777] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 18:23:40.777] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 18:23:40.777] [modengine] [info] Installing mod location mod
+[2026-09-15 18:23:40.777] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 18:23:40.777] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 18:23:40.852] [modengine] [info] Applied 3 hooks
+[2026-09-15 18:23:40.858] [modengine] [info] Starting worker thread
+[2026-09-15 18:31:37.709] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 18:31:37.709] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 18:31:37.709] [modengine] [info] Local config loaded
+[2026-09-15 18:31:37.709] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 18:31:37.709] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 18:31:37.709] [modengine] [info] Main thread ID: 37848
+[2026-09-15 18:31:37.784] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 18:31:40.820] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 18:31:40.820] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffa4e860000 is not a modengine extension
+[2026-09-15 18:31:40.821] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 18:31:40.821] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa236a0000 is not a modengine extension
+[2026-09-15 18:31:40.821] [modengine] [info] Enabling extension base
+[2026-09-15 18:31:40.821] [modengine] [info] Enabled extension base
+[2026-09-15 18:31:40.821] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 18:31:40.821] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 18:31:40.821] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 18:31:40.821] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 18:31:40.821] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 18:31:40.821] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 18:31:40.821] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 18:31:40.821] [modengine] [info] Installing mod location mod
+[2026-09-15 18:31:40.821] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 18:31:40.821] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 18:31:40.892] [modengine] [info] Applied 3 hooks
+[2026-09-15 18:31:40.899] [modengine] [info] Starting worker thread
+[2026-09-15 18:33:28.535] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 18:33:28.535] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 18:33:28.535] [modengine] [info] Local config loaded
+[2026-09-15 18:33:28.535] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 18:33:28.535] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 18:33:28.535] [modengine] [info] Main thread ID: 38556
+[2026-09-15 18:33:28.609] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 18:33:31.857] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 18:33:31.857] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffa4e8b0000 is not a modengine extension
+[2026-09-15 18:33:31.857] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 18:33:31.857] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa236a0000 is not a modengine extension
+[2026-09-15 18:33:31.857] [modengine] [info] Enabling extension base
+[2026-09-15 18:33:31.857] [modengine] [info] Enabled extension base
+[2026-09-15 18:33:31.857] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 18:33:31.858] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 18:33:31.858] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 18:33:31.858] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 18:33:31.858] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 18:33:31.858] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 18:33:31.858] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 18:33:31.858] [modengine] [info] Installing mod location mod
+[2026-09-15 18:33:31.858] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 18:33:31.858] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 18:33:31.929] [modengine] [info] Applied 3 hooks
+[2026-09-15 18:33:31.936] [modengine] [info] Starting worker thread
+[2026-09-15 18:45:37.364] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 18:45:37.365] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 18:45:37.365] [modengine] [info] Local config loaded
+[2026-09-15 18:45:37.365] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 18:45:37.365] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 18:45:37.365] [modengine] [info] Main thread ID: 2764
+[2026-09-15 18:45:37.436] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 18:45:40.515] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 18:45:40.515] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffb0b5e0000 is not a modengine extension
+[2026-09-15 18:45:40.516] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 18:45:40.516] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa601a0000 is not a modengine extension
+[2026-09-15 18:45:40.516] [modengine] [info] Enabling extension base
+[2026-09-15 18:45:40.516] [modengine] [info] Enabled extension base
+[2026-09-15 18:45:40.516] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 18:45:40.516] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 18:45:40.516] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 18:45:40.516] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 18:45:40.516] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 18:45:40.516] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 18:45:40.516] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 18:45:40.516] [modengine] [info] Installing mod location mod
+[2026-09-15 18:45:40.516] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 18:45:40.516] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 18:45:40.589] [modengine] [info] Applied 3 hooks
+[2026-09-15 18:45:40.595] [modengine] [info] Starting worker thread
+[2026-09-15 18:56:37.317] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 18:56:37.317] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 18:56:37.318] [modengine] [info] Local config loaded
+[2026-09-15 18:56:37.318] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 18:56:37.318] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 18:56:37.318] [modengine] [info] Main thread ID: 41296
+[2026-09-15 18:56:37.390] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 18:56:40.462] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 18:56:40.462] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafc350000 is not a modengine extension
+[2026-09-15 18:56:40.463] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 18:56:40.463] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa2cfa0000 is not a modengine extension
+[2026-09-15 18:56:40.463] [modengine] [info] Enabling extension base
+[2026-09-15 18:56:40.463] [modengine] [info] Enabled extension base
+[2026-09-15 18:56:40.463] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 18:56:40.463] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 18:56:40.463] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 18:56:40.463] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 18:56:40.463] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 18:56:40.463] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 18:56:40.463] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 18:56:40.463] [modengine] [info] Installing mod location mod
+[2026-09-15 18:56:40.463] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 18:56:40.463] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 18:56:40.544] [modengine] [info] Applied 3 hooks
+[2026-09-15 18:56:40.549] [modengine] [info] Starting worker thread
+[2026-09-15 19:07:06.505] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 19:07:06.506] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 19:07:06.506] [modengine] [info] Local config loaded
+[2026-09-15 19:07:06.506] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 19:07:06.506] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 19:07:06.506] [modengine] [info] Main thread ID: 34560
+[2026-09-15 19:07:06.578] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 19:07:09.684] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 19:07:09.684] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafa7b0000 is not a modengine extension
+[2026-09-15 19:07:09.685] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 19:07:09.685] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa601a0000 is not a modengine extension
+[2026-09-15 19:07:09.685] [modengine] [info] Enabling extension base
+[2026-09-15 19:07:09.685] [modengine] [info] Enabled extension base
+[2026-09-15 19:07:09.685] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 19:07:09.685] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 19:07:09.685] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 19:07:09.685] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 19:07:09.685] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 19:07:09.685] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 19:07:09.685] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 19:07:09.685] [modengine] [info] Installing mod location mod
+[2026-09-15 19:07:09.685] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 19:07:09.685] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 19:07:09.762] [modengine] [info] Applied 3 hooks
+[2026-09-15 19:07:09.769] [modengine] [info] Starting worker thread
+[2026-09-15 19:32:56.990] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 19:32:56.990] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 19:32:56.995] [modengine] [error] Failed to load config (from `X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml`): Error while parsing inline table: expected comma or closing '}', saw 'm'
+[2026-09-15 19:32:56.995] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 19:32:56.995] [modengine] [info] Local settings loaded: false, Global settings loaded: false
+[2026-09-15 19:32:56.995] [modengine] [info] Main thread ID: 38380
+[2026-09-15 19:32:56.997] [modengine] [info] Enabling extension base
+[2026-09-15 19:32:56.997] [modengine] [info] Enabled extension base
+[2026-09-15 19:32:56.997] [modengine] [info] Applied 1 hooks
+[2026-09-15 19:32:56.998] [modengine] [info] Starting worker thread
+[2026-09-15 19:33:48.151] [modengine] [info] Destroying
+[2026-09-15 19:33:48.151] [modengine] [info] Destroying
+[2026-09-15 19:33:48.151] [modengine] [info] Destroying
+[2026-09-15 19:33:48.151] [modengine] [info] Destroying
+[2026-09-15 19:33:48.151] [modengine] [info] Destroying
+[2026-09-15 19:33:48.151] [modengine] [info] Destroying
+[2026-09-15 19:33:48.151] [modengine] [info] Destroying
+[2026-09-15 19:33:48.151] [modengine] [info] Destroying
+[2026-09-15 19:33:48.151] [modengine] [info] Destroying
+[2026-09-15 19:33:48.152] [modengine] [info] Destroying
+[2026-09-15 19:34:09.161] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 19:34:09.161] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 19:34:09.162] [modengine] [info] Local config loaded
+[2026-09-15 19:34:09.162] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 19:34:09.162] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 19:34:09.162] [modengine] [info] Main thread ID: 42644
+[2026-09-15 19:34:09.233] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 19:34:12.342] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 19:34:12.342] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffaf2990000 is not a modengine extension
+[2026-09-15 19:34:12.344] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 19:34:12.344] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa2cfb0000 is not a modengine extension
+[2026-09-15 19:34:12.344] [modengine] [info] Enabling extension base
+[2026-09-15 19:34:12.344] [modengine] [info] Enabled extension base
+[2026-09-15 19:34:12.344] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 19:34:12.344] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 19:34:12.344] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 19:34:12.344] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 19:34:12.344] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 19:34:12.344] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 19:34:12.344] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 19:34:12.344] [modengine] [info] Installing mod location mod\ER_GuardParry
+[2026-09-15 19:34:12.344] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ER_GuardParry
+[2026-09-15 19:34:12.344] [modengine] [info] Installing mod location mod
+[2026-09-15 19:34:12.344] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 19:34:12.344] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 19:34:12.420] [modengine] [info] Applied 3 hooks
+[2026-09-15 19:34:12.427] [modengine] [info] Starting worker thread
+[2026-09-15 20:32:16.576] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 20:32:16.576] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 20:32:16.576] [modengine] [info] Local config loaded
+[2026-09-15 20:32:16.576] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 20:32:16.576] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 20:32:16.576] [modengine] [info] Main thread ID: 34212
+[2026-09-15 20:32:16.647] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 20:32:19.640] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SkipTheIntro\SkipTheIntro.dll
+[2026-09-15 20:32:19.640] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SkipTheIntro\SkipTheIntro.dll at base address 0x7ffadec90000 is not a modengine extension
+[2026-09-15 20:32:19.641] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 20:32:19.641] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafc2d0000 is not a modengine extension
+[2026-09-15 20:32:19.642] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 20:32:19.642] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa5fe70000 is not a modengine extension
+[2026-09-15 20:32:19.642] [modengine] [info] Enabling extension base
+[2026-09-15 20:32:19.642] [modengine] [info] Enabled extension base
+[2026-09-15 20:32:19.642] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 20:32:19.642] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 20:32:19.642] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 20:32:19.642] [modengine] [info] Installing mod location mod\SkipTheIntro
+[2026-09-15 20:32:19.642] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SkipTheIntro
+[2026-09-15 20:32:19.642] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 20:32:19.642] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 20:32:19.642] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 20:32:19.642] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 20:32:19.642] [modengine] [info] Installing mod location mod\ER_GuardParry
+[2026-09-15 20:32:19.642] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ER_GuardParry
+[2026-09-15 20:32:19.642] [modengine] [info] Installing mod location mod
+[2026-09-15 20:32:19.642] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 20:32:19.642] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 20:32:19.716] [modengine] [info] Applied 3 hooks
+[2026-09-15 20:32:19.723] [modengine] [info] Starting worker thread
+[2026-09-15 20:33:01.812] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 20:33:01.812] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 20:33:01.813] [modengine] [info] Local config loaded
+[2026-09-15 20:33:01.813] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 20:33:01.813] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 20:33:01.813] [modengine] [info] Main thread ID: 8880
+[2026-09-15 20:33:01.884] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 20:33:04.942] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SkipTheIntro\SkipTheIntro.dll
+[2026-09-15 20:33:04.942] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SkipTheIntro\SkipTheIntro.dll at base address 0x7ffadec90000 is not a modengine extension
+[2026-09-15 20:33:04.943] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll
+[2026-09-15 20:33:04.943] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic\WitchMagic.dll at base address 0x7ffafe300000 is not a modengine extension
+[2026-09-15 20:33:04.943] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 20:33:04.943] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa5fe70000 is not a modengine extension
+[2026-09-15 20:33:04.943] [modengine] [info] Enabling extension base
+[2026-09-15 20:33:04.943] [modengine] [info] Enabled extension base
+[2026-09-15 20:33:04.944] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 20:33:04.944] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 20:33:04.944] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 20:33:04.944] [modengine] [info] Installing mod location mod\SkipTheIntro
+[2026-09-15 20:33:04.944] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SkipTheIntro
+[2026-09-15 20:33:04.944] [modengine] [info] Installing mod location mod\WitchMagic
+[2026-09-15 20:33:04.944] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\WitchMagic
+[2026-09-15 20:33:04.944] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 20:33:04.944] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 20:33:04.944] [modengine] [info] Installing mod location mod\ER_GuardParry
+[2026-09-15 20:33:04.944] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ER_GuardParry
+[2026-09-15 20:33:04.944] [modengine] [info] Installing mod location mod
+[2026-09-15 20:33:04.944] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 20:33:04.944] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 20:33:05.019] [modengine] [info] Applied 3 hooks
+[2026-09-15 20:33:05.028] [modengine] [info] Starting worker thread
+[2026-09-15 20:34:41.168] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 20:34:41.169] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 20:34:41.169] [modengine] [info] Local config loaded
+[2026-09-15 20:34:41.169] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 20:34:41.169] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 20:34:41.169] [modengine] [info] Main thread ID: 29172
+[2026-09-15 20:34:41.247] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 20:34:44.282] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 20:34:44.283] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa5fe70000 is not a modengine extension
+[2026-09-15 20:34:44.283] [modengine] [info] Enabling extension base
+[2026-09-15 20:34:44.283] [modengine] [info] Enabled extension base
+[2026-09-15 20:34:44.283] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 20:34:44.283] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 20:34:44.283] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 20:34:44.283] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 20:34:44.283] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 20:34:44.283] [modengine] [info] Installing mod location mod\ER_GuardParry
+[2026-09-15 20:34:44.283] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ER_GuardParry
+[2026-09-15 20:34:44.283] [modengine] [info] Installing mod location mod
+[2026-09-15 20:34:44.283] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 20:34:44.283] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 20:34:44.351] [modengine] [info] Applied 3 hooks
+[2026-09-15 20:34:44.355] [modengine] [info] Starting worker thread
+[2026-09-15 20:38:11.559] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 20:38:11.559] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 20:38:11.560] [modengine] [info] Local config loaded
+[2026-09-15 20:38:11.560] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 20:38:11.560] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 20:38:11.560] [modengine] [info] Main thread ID: 7128
+[2026-09-15 20:38:11.631] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 20:38:14.564] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 20:38:14.564] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa5fe70000 is not a modengine extension
+[2026-09-15 20:38:14.564] [modengine] [info] Enabling extension base
+[2026-09-15 20:38:14.564] [modengine] [info] Enabled extension base
+[2026-09-15 20:38:14.564] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 20:38:14.564] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 20:38:14.564] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 20:38:14.564] [modengine] [info] Installing mod location mod\SkipTheIntro
+[2026-09-15 20:38:14.565] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SkipTheIntro
+[2026-09-15 20:38:14.565] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 20:38:14.565] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 20:38:14.565] [modengine] [info] Installing mod location mod\ER_GuardParry
+[2026-09-15 20:38:14.565] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ER_GuardParry
+[2026-09-15 20:38:14.565] [modengine] [info] Installing mod location mod
+[2026-09-15 20:38:14.565] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 20:38:14.565] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 20:38:14.633] [modengine] [info] Applied 3 hooks
+[2026-09-15 20:38:14.637] [modengine] [info] Starting worker thread
+[2026-09-15 20:39:20.094] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 20:39:20.094] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 20:39:20.094] [modengine] [info] Local config loaded
+[2026-09-15 20:39:20.094] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 20:39:20.094] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 20:39:20.094] [modengine] [info] Main thread ID: 30144
+[2026-09-15 20:39:20.165] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 20:39:23.097] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 20:39:23.097] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa5fe70000 is not a modengine extension
+[2026-09-15 20:39:23.097] [modengine] [info] Enabling extension base
+[2026-09-15 20:39:23.097] [modengine] [info] Enabled extension base
+[2026-09-15 20:39:23.097] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 20:39:23.097] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 20:39:23.097] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 20:39:23.097] [modengine] [info] Installing mod location mod\SkipTheIntro
+[2026-09-15 20:39:23.097] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SkipTheIntro
+[2026-09-15 20:39:23.097] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 20:39:23.097] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 20:39:23.097] [modengine] [info] Installing mod location mod\ER_GuardParry
+[2026-09-15 20:39:23.097] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ER_GuardParry
+[2026-09-15 20:39:23.097] [modengine] [info] Installing mod location mod
+[2026-09-15 20:39:23.097] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 20:39:23.097] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 20:39:23.180] [modengine] [info] Applied 3 hooks
+[2026-09-15 20:39:23.184] [modengine] [info] Starting worker thread
+[2026-09-15 20:41:01.272] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\ModEngine-2.1.0\modengine2\config.toml
+[2026-09-15 20:41:01.272] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\ModEngine-2.1.0\config_eldenring.toml
+[2026-09-15 20:41:01.272] [modengine] [info] Local config loaded
+[2026-09-15 20:41:01.272] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 20:41:01.272] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 20:41:01.272] [modengine] [info] Main thread ID: 31400
+[2026-09-15 20:41:01.355] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop\ersc.dll
+[2026-09-15 20:41:04.361] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 20:41:04.361] [modengine] [warning] External dll X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa5f9e0000 is not a modengine extension
+[2026-09-15 20:41:04.361] [modengine] [info] Enabling extension base
+[2026-09-15 20:41:04.361] [modengine] [info] Enabled extension base
+[2026-09-15 20:41:04.361] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 20:41:04.361] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 20:41:04.361] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SeamlessCoop
+[2026-09-15 20:41:04.361] [modengine] [info] Installing mod location mod\SkipTheIntro
+[2026-09-15 20:41:04.361] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\SkipTheIntro
+[2026-09-15 20:41:04.361] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 20:41:04.361] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\DamageCompetition
+[2026-09-15 20:41:04.361] [modengine] [info] Installing mod location mod\ER_GuardParry
+[2026-09-15 20:41:04.361] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod\ER_GuardParry
+[2026-09-15 20:41:04.361] [modengine] [info] Installing mod location mod
+[2026-09-15 20:41:04.361] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\ModEngine-2.1.0\mod
+[2026-09-15 20:41:04.361] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 20:41:04.440] [modengine] [info] Applied 3 hooks
+[2026-09-15 20:41:04.445] [modengine] [info] Starting worker thread
+[2026-09-15 20:57:16.004] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\SpookyRing\Resources\modengine2\config.toml
+[2026-09-15 20:57:16.004] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\SpookyRing\Resources\Resources\config_eldenring.toml
+[2026-09-15 20:57:16.005] [modengine] [error] Failed to load config (from `X:\Modding\Elden Ring\SpookyRing\Resources\Resources\config_eldenring.toml`): File could not be opened for reading
+[2026-09-15 20:57:16.005] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 20:57:16.005] [modengine] [info] Local settings loaded: false, Global settings loaded: false
+[2026-09-15 20:57:16.005] [modengine] [info] Main thread ID: 32604
+[2026-09-15 20:57:16.007] [modengine] [info] Enabling extension base
+[2026-09-15 20:57:16.007] [modengine] [info] Enabled extension base
+[2026-09-15 20:57:16.007] [modengine] [info] Applied 1 hooks
+[2026-09-15 20:57:16.008] [modengine] [info] Starting worker thread
+[2026-09-15 20:58:07.254] [modengine] [info] Destroying
+[2026-09-15 20:58:07.254] [modengine] [info] Destroying
+[2026-09-15 20:58:07.254] [modengine] [info] Destroying
+[2026-09-15 20:58:07.254] [modengine] [info] Destroying
+[2026-09-15 20:58:07.254] [modengine] [info] Destroying
+[2026-09-15 20:58:07.254] [modengine] [info] Destroying
+[2026-09-15 20:58:07.254] [modengine] [info] Destroying
+[2026-09-15 20:58:07.254] [modengine] [info] Destroying
+[2026-09-15 20:58:07.254] [modengine] [info] Destroying
+[2026-09-15 20:58:07.254] [modengine] [info] Destroying
+[2026-09-15 21:00:59.035] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\SpookyRing\Resources\modengine2\config.toml
+[2026-09-15 21:00:59.035] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\SpookyRing\Resources\Resources\config_eldenring.toml
+[2026-09-15 21:00:59.035] [modengine] [error] Failed to load config (from `X:\Modding\Elden Ring\SpookyRing\Resources\Resources\config_eldenring.toml`): File could not be opened for reading
+[2026-09-15 21:00:59.035] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 21:00:59.035] [modengine] [info] Local settings loaded: false, Global settings loaded: false
+[2026-09-15 21:00:59.035] [modengine] [info] Main thread ID: 32696
+[2026-09-15 21:00:59.038] [modengine] [info] Enabling extension base
+[2026-09-15 21:00:59.038] [modengine] [info] Enabled extension base
+[2026-09-15 21:00:59.038] [modengine] [info] Applied 1 hooks
+[2026-09-15 21:00:59.039] [modengine] [info] Starting worker thread
+[2026-09-15 21:01:33.476] [modengine] [info] Destroying
+[2026-09-15 21:01:33.476] [modengine] [info] Destroying
+[2026-09-15 21:01:33.476] [modengine] [info] Destroying
+[2026-09-15 21:01:33.477] [modengine] [info] Destroying
+[2026-09-15 21:01:33.477] [modengine] [info] Destroying
+[2026-09-15 21:01:33.477] [modengine] [info] Destroying
+[2026-09-15 21:01:33.477] [modengine] [info] Destroying
+[2026-09-15 21:01:33.477] [modengine] [info] Destroying
+[2026-09-15 21:01:33.477] [modengine] [info] Destroying
+[2026-09-15 21:01:33.477] [modengine] [info] Destroying
+[2026-09-15 21:02:35.147] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\SpookyRing\Resources\modengine2\config.toml
+[2026-09-15 21:02:35.147] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\SpookyRing\Resources\Resources\config_eldenring.toml
+[2026-09-15 21:02:35.147] [modengine] [error] Failed to load config (from `X:\Modding\Elden Ring\SpookyRing\Resources\Resources\config_eldenring.toml`): File could not be opened for reading
+[2026-09-15 21:02:35.147] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 21:02:35.147] [modengine] [info] Local settings loaded: false, Global settings loaded: false
+[2026-09-15 21:02:35.147] [modengine] [info] Main thread ID: 4780
+[2026-09-15 21:02:35.150] [modengine] [info] Enabling extension base
+[2026-09-15 21:02:35.150] [modengine] [info] Enabled extension base
+[2026-09-15 21:02:35.150] [modengine] [info] Applied 1 hooks
+[2026-09-15 21:02:35.151] [modengine] [info] Starting worker thread
+[2026-09-15 21:03:09.522] [modengine] [info] Destroying
+[2026-09-15 21:03:09.522] [modengine] [info] Destroying
+[2026-09-15 21:03:09.522] [modengine] [info] Destroying
+[2026-09-15 21:03:09.522] [modengine] [info] Destroying
+[2026-09-15 21:03:09.522] [modengine] [info] Destroying
+[2026-09-15 21:03:09.522] [modengine] [info] Destroying
+[2026-09-15 21:03:09.522] [modengine] [info] Destroying
+[2026-09-15 21:03:09.522] [modengine] [info] Destroying
+[2026-09-15 21:03:09.522] [modengine] [info] Destroying
+[2026-09-15 21:03:09.522] [modengine] [info] Destroying
+[2026-09-15 21:07:38.986] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\SpookyRing\Resources\modengine2\config.toml
+[2026-09-15 21:07:38.986] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\SpookyRing\Resources\Resources\config_eldenring.toml
+[2026-09-15 21:07:38.987] [modengine] [error] Failed to load config (from `X:\Modding\Elden Ring\SpookyRing\Resources\Resources\config_eldenring.toml`): File could not be opened for reading
+[2026-09-15 21:07:38.987] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 21:07:38.987] [modengine] [info] Local settings loaded: false, Global settings loaded: false
+[2026-09-15 21:07:38.987] [modengine] [info] Main thread ID: 40528
+[2026-09-15 21:07:38.989] [modengine] [info] Enabling extension base
+[2026-09-15 21:07:38.989] [modengine] [info] Enabled extension base
+[2026-09-15 21:07:38.989] [modengine] [info] Applied 1 hooks
+[2026-09-15 21:07:38.990] [modengine] [info] Starting worker thread
+[2026-09-15 21:08:30.108] [modengine] [info] Destroying
+[2026-09-15 21:08:30.108] [modengine] [info] Destroying
+[2026-09-15 21:08:30.108] [modengine] [info] Destroying
+[2026-09-15 21:08:30.108] [modengine] [info] Destroying
+[2026-09-15 21:08:30.108] [modengine] [info] Destroying
+[2026-09-15 21:08:30.108] [modengine] [info] Destroying
+[2026-09-15 21:08:30.108] [modengine] [info] Destroying
+[2026-09-15 21:08:30.108] [modengine] [info] Destroying
+[2026-09-15 21:08:30.108] [modengine] [info] Destroying
+[2026-09-15 21:08:30.108] [modengine] [info] Destroying
+[2026-09-15 21:11:09.219] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\SpookyRing\Resources\modengine2\config.toml
+[2026-09-15 21:11:09.219] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\SpookyRing\Resources\config_eldenring.toml
+[2026-09-15 21:11:09.223] [modengine] [info] Local config loaded
+[2026-09-15 21:11:09.223] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 21:11:09.223] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 21:11:09.223] [modengine] [info] Main thread ID: 27784
+[2026-09-15 21:11:09.350] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\SpookyRing\Resources\mod\SeamlessCoop\ersc.dll
+[2026-09-15 21:11:12.354] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\SpookyRing\Resources\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 21:11:12.354] [modengine] [warning] External dll X:\Modding\Elden Ring\SpookyRing\Resources\mod\DamageCompetition\damage_competition.dll at base address 0x7ffa2b400000 is not a modengine extension
+[2026-09-15 21:11:12.354] [modengine] [info] Enabling extension base
+[2026-09-15 21:11:12.354] [modengine] [info] Enabled extension base
+[2026-09-15 21:11:12.354] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 21:11:12.354] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 21:11:12.354] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod\SeamlessCoop
+[2026-09-15 21:11:12.354] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 21:11:12.354] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod\DamageCompetition
+[2026-09-15 21:11:12.354] [modengine] [info] Installing mod location mod\ER_GuardParry
+[2026-09-15 21:11:12.354] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod\ER_GuardParry
+[2026-09-15 21:11:12.354] [modengine] [info] Installing mod location mod
+[2026-09-15 21:11:12.354] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod
+[2026-09-15 21:11:12.354] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 21:11:12.422] [modengine] [info] Applied 3 hooks
+[2026-09-15 21:11:12.427] [modengine] [info] Starting worker thread
+[2026-09-15 21:19:59.736] [modengine] [info] Attempting to load global config at X:\Modding\Elden Ring\SpookyRing\Resources\modengine2\config.toml
+[2026-09-15 21:19:59.736] [modengine] [info] Attempting to load mod settings config at X:\Modding\Elden Ring\SpookyRing\Resources\config_eldenring.toml
+[2026-09-15 21:19:59.736] [modengine] [info] Local config loaded
+[2026-09-15 21:19:59.736] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2026-09-15 21:19:59.736] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2026-09-15 21:19:59.736] [modengine] [info] Main thread ID: 4380
+[2026-09-15 21:19:59.808] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\SpookyRing\Resources\mod\SeamlessCoop\ersc.dll
+[2026-09-15 21:20:02.510] [modengine] [info] Loaded external DLL X:\Modding\Elden Ring\SpookyRing\Resources\mod\DamageCompetition\damage_competition.dll
+[2026-09-15 21:20:02.510] [modengine] [warning] External dll X:\Modding\Elden Ring\SpookyRing\Resources\mod\DamageCompetition\damage_competition.dll at base address 0x7ffaa0360000 is not a modengine extension
+[2026-09-15 21:20:02.511] [modengine] [info] Enabling extension base
+[2026-09-15 21:20:02.511] [modengine] [info] Enabled extension base
+[2026-09-15 21:20:02.511] [modengine] [info] Enabling extension mod_loader
+[2026-09-15 21:20:02.511] [modengine] [info] Installing mod location mod\SeamlessCoop
+[2026-09-15 21:20:02.511] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod\SeamlessCoop
+[2026-09-15 21:20:02.511] [modengine] [info] Installing mod location mod\DamageCompetition
+[2026-09-15 21:20:02.511] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod\DamageCompetition
+[2026-09-15 21:20:02.511] [modengine] [info] Installing mod location mod\ER_GuardParry
+[2026-09-15 21:20:02.511] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod\ER_GuardParry
+[2026-09-15 21:20:02.511] [modengine] [info] Installing mod location mod
+[2026-09-15 21:20:02.511] [modengine] [info] Resolved mod path to X:\Modding\Elden Ring\SpookyRing\Resources\mod
+[2026-09-15 21:20:02.511] [modengine] [info] Enabled extension mod_loader
+[2026-09-15 21:20:02.578] [modengine] [info] Applied 3 hooks
+[2026-09-15 21:20:02.582] [modengine] [info] Starting worker thread

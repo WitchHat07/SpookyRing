@@ -1,0 +1,28 @@
+# Global mod engine configuration
+
+[modengine]
+# If set to true the debug console will appear while the game is running
+debug = false
+
+external_dlls = [
+    "mod\\SeamlessCoop\\ersc.dll",
+    #"mod\\WitchMagic\\WitchMagic.dll", 
+    "mod\\DamageCompetition\\damage_competition.dll",
+]
+
+[extension.mod_loader]
+enabled = true
+
+# Not currently supported for Elden Ring
+loose_params = false
+
+mods = [
+    { enabled = true, name = "SeamlessCoop", path = "mod\\SeamlessCoop" },
+    #{ enabled = true, name = "WitchMagic", path = "mod\\WitchMagic" },
+    { enabled = true, name = "DamageCompetition", path = "mod\\DamageCompetition" },
+    { enabled = true, name = "GuardParry", path = "mod\\ER_GuardParry" },
+    { enabled = true, name = "default", path = "mod" }
+]
+
+[extension.scylla_hide]
+enabled = false
