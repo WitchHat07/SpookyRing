@@ -6,8 +6,9 @@ debug = false
 
 external_dlls = [
     "mod\\SeamlessCoop\\ersc.dll",
-    #"mod\\WitchMagic\\WitchMagic.dll", 
+    #"mod\\WitchMagic\\WitchMagic.dll",
     "mod\\DamageCompetition\\damage_competition.dll",
+    "mod\\TransmogrifyArmor\\ertransmogrify.dll",
 ]
 
 [extension.mod_loader]
@@ -18,8 +19,9 @@ loose_params = false
 
 mods = [
     { enabled = true, name = "SeamlessCoop", path = "mod\\SeamlessCoop" },
-    #{ enabled = true, name = "WitchMagic", path = "mod\\WitchMagic" },
+    { enabled = true, name = "WitchMagic", path = "mod\\WitchMagic" },
     { enabled = true, name = "DamageCompetition", path = "mod\\DamageCompetition" },
+    { enabled = true, name = "TransmogrifyArmor", path = "mod\\TransmogrifyArmor" },
     { enabled = true, name = "GuardParry", path = "mod\\ER_GuardParry" },
     { enabled = true, name = "default", path = "mod" }
 ]
