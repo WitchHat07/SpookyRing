@@ -9,6 +9,7 @@ external_dlls = [
     #"mod\\WitchMagic\\WitchMagic.dll",
     "mod\\DamageCompetition\\damage_competition.dll",
     "mod\\TransmogrifyArmor\\ertransmogrify.dll",
+    "mod\\EldenSearch\\elden_search.dll",
 ]
 
 [extension.mod_loader]
@@ -22,6 +23,7 @@ mods = [
     { enabled = true, name = "WitchMagic", path = "mod\\WitchMagic" },
     { enabled = true, name = "DamageCompetition", path = "mod\\DamageCompetition" },
     { enabled = true, name = "TransmogrifyArmor", path = "mod\\TransmogrifyArmor" },
+    { enabled = true, name = "EldenSearch", path = "mod\\EldenSearch" },
     { enabled = true, name = "GuardParry", path = "mod\\ER_GuardParry" },
     { enabled = true, name = "default", path = "mod" }
 ]

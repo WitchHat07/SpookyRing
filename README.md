@@ -23,12 +23,17 @@ Checks for mod pack updates automatically before launching the game via ModEngin
 * Damage Competition (https://www.nexusmods.com/eldenring/mods/10461)
 * Skip Intro (https://www.nexusmods.com/eldenring/mods/421)
 * Transmogrify Armor (https://www.nexusmods.com/eldenring/mods/3596)
+* Elden Search (https://www.nexusmods.com/eldenring/mods/10522)
 * WitchMagic (made my WitchHat)
 
 
 
 ##### Version History
 
+* v1.2.0
+
+  * Added inventory search mod Elden Search to mod pack
+  * Modified onscreen player info to only show player name and no longer clutter left HUD for offscreen players
 * v1.1.0
 
   * Added steam and game process checks to launcher

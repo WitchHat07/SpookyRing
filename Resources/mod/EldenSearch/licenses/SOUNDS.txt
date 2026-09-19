@@ -1,0 +1,23 @@
+Where the sounds in this mod came from
+======================================
+
+Every sound shipped with Elden Search is CC0 (public domain). Nothing here
+requires attribution, but it is given anyway, because the people who made
+these put them out for free and that is worth writing down.
+
+  Kenney - "Interface Sounds" (CC0)
+  https://kenney.nl/assets/interface-sounds
+  Full licence text: LICENSE-Kenney-CC0.txt
+
+  OpenGameArt - "100 CC0 SFX" (CC0)
+  https://opengameart.org/content/100-cc0-sfx
+
+  artisticdude - "Swishes Sound Pack" (CC0)
+  https://opengameart.org/content/swishes-sound-pack
+  (the delete tick and the clear sweep, esb_sound_delete/clear.wav)
+
+The files were shortened, resampled and pitched to sit under the game's own
+menu clicks. The originals are unmodified at the links above.
+
+The typeface is EB Garamond by Georg Duffner and Octavio Pardo, under the
+SIL Open Font Licence 1.1 - see EBGaramond-OFL.txt.
